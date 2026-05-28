@@ -168,7 +168,7 @@ Step 5 — Click Refresh and explore both pages!
 
 | Summary Page | Overview Page |
 |---|---|
-| ![Summary](IMAGES/HI_page-0001.jpg) | ![Overview](IMAGES/HI_page-0002.jpg) |
+| ![Summary](https://github.com/haritha090/Bank-Loan-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/Screenshot%20(198).png?raw=true) | ![Overview](IMAGES/HI_page-0002.jpg) |
 
 ---
 
@@ -178,5 +178,11 @@ Step 5 — Click Refresh and explore both pages!
 
 ---
 
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaki-haritha-93a3a8292/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haritha090)
+
+---
 
 <p align="center">⭐ If you found this useful, please star the repo — it helps others discover this project!</p>
