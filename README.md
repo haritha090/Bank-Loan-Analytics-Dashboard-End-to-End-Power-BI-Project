@@ -169,7 +169,7 @@ Step 5 — Click Refresh and explore both pages!
 | Summary Page | Overview Page |
 |---|---|
 | ![Summary](https://github.com/haritha090/Bank-Loan-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/Screenshot%20(198).png?raw=true) 
-| ![Overview](IMAGES/HI_page-0002.jpg) |
+| ![Overview](https://github.com/haritha090/Bank-Loan-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/Screenshot%20(200).png?raw=true) |
 
 ---
 
