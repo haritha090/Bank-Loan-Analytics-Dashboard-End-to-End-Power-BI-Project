@@ -1,8 +1,6 @@
 # Bank-Loan-Analytics-Dashboard-End-to-End-Power-BI-Project
 End-to-End Bank Loan Analytics Dashboard built in Power BI — analyzing 38K+ loan records to track KPIs, Good vs Bad loan performance, borrower risk profiles, and monthly lending trends across the US.
 
-
-
 # 🏦 Bank Loan Analytics Dashboard — End-to-End Power BI Project
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -39,6 +37,7 @@ This project delivers exactly that. A **professional, 2-page interactive Power B
 ## 📊 Dashboard Pages
 
 ### 📋 Page 1 — Summary
+
 The command center for decision-makers. Tracks the most critical portfolio metrics at a glance with **Month-to-Date (MTD)** values and **Month-over-Month (MoM) % change** indicators — all powered by DAX time intelligence.
 
 | KPI Metric | Description |
@@ -54,6 +53,7 @@ Also features the most important risk panel in the dashboard — **Good Loan vs 
 ---
 
 ### 📈 Page 2 — Overview
+
 Six powerful visual breakdowns for deep portfolio understanding:
 
 - 📅 **Monthly Trend** — loan application volume tracked across all 12 months of 2021
@@ -131,3 +131,58 @@ Six powerful visual breakdowns for deep portfolio understanding:
 ---
 
 ## 📁 Repository Structure
+
+```
+📦 Bank-Loan-Analytics-Dashboard/
+│
+├── 📊  Bank Loan Analytics Dashboard.pbix     ← Open in Power BI Desktop
+├── 📂  Financial_loan_data.xlsx               ← Source dataset (38,576 rows × 23 cols)
+├── 📑  Problem Statement.pptx                 ← KPI requirements & dashboard specs
+└── 📖  README.md                              ← You are here
+```
+
+---
+
+## ▶️ How to Run This Project
+
+```
+Step 1 — Clone this repository
+git clone https://github.com/YOUR-USERNAME/Bank-Loan-Analytics-Dashboard.git
+
+Step 2 — Download Power BI Desktop (free)
+https://powerbi.microsoft.com/desktop/
+
+Step 3 — Open the dashboard file
+File → Open → Select Bank Loan Analytics Dashboard.pbix
+
+Step 4 — Reconnect data source if prompted
+Home → Transform Data → Data Source Settings
+→ Update path to your local Financial_loan_data.xlsx
+
+Step 5 — Click Refresh and explore both pages!
+```
+
+---
+
+## 📸 Dashboard Preview
+
+| Summary Page | Overview Page |
+|---|---|
+| ![Summary](IMAGES/HI_page-0001.jpg) | ![Overview](IMAGES/HI_page-0002.jpg) |
+
+---
+
+## 🧩 Skills Demonstrated
+
+`Power BI` &nbsp;|&nbsp; `DAX` &nbsp;|&nbsp; `Power Query` &nbsp;|&nbsp; `Data Modeling` &nbsp;|&nbsp; `Time Intelligence` &nbsp;|&nbsp; `KPI Dashboard Design` &nbsp;|&nbsp; `Financial Analytics` &nbsp;|&nbsp; `Data Cleaning` &nbsp;|&nbsp; `Storytelling with Data`
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+
+---
+
+<p align="center">⭐ If you found this useful, please star the repo — it helps others discover this project!</p>
